@@ -3,16 +3,16 @@
    $connection = mysqli_connect('localhost','root','','book_db');
 
    if(isset($_POST['send'])){
-      $name = $_POST['name'];
+      $nombre = $_POST['nombre'];
       $email = $_POST['email'];
-      $phone = $_POST['phone'];
-      $address = $_POST['address'];
-      $location = $_POST['location'];
-      $guests = $_POST['guests'];
-      $arrivals = $_POST['arrivals'];
-      $leaving = $_POST['leaving'];
+      $telefono = $_POST['telefono'];
+      $direccion = $_POST['direccion'];
+      $localizacion = $_POST['localizacion'];
+      $invitados = $_POST['invitados'];
+      $llegadas = $_POST['llegadas'];
+      $salidas = $_POST['salidas'];
 
-      $request = " insert into book_form(name, email, phone, address, location, guests, arrivals, leaving) values('$name','$email','$phone','$address','$location','$guests','$arrivals','$leaving') ";
+      $request = " insert into book_form(nombre, email, telefono, direccion, localizacion, invitados, llegadas, salidas) values('$nombre','$email','$telefono','$direccion','$localizacion','$invitados','$llegadas','$salidas') ";
       mysqli_query($connection, $request);
 
       header('location:book.php'); 

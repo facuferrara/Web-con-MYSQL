@@ -8,7 +8,6 @@
    
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-
    <!-- font awesome cdn link  -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
@@ -183,7 +182,6 @@
             <a href="book.php" class="btn">Leer Mas</a>
          </div>
       </div>
-
    </div>
 
    <div class="load-more"> <a href="package.php" class="btn">load more</a> </div>
@@ -250,14 +248,6 @@
 </section>
 
 <!-- footer section ends -->
-
-
-
-
-
-
-
-
 
 <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
