@@ -227,23 +227,23 @@
 
       <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +54 11-3919-4237 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +54 11-4627-9701</a>
-         <a href="#"> <i class="fas fa-envelope"></i> facuferrara@hotmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> moron, buenos aires - 1708 </a>
+         <a href="https://www.whatsapp.com/?lang=es"> <i class="fas fa-phone"></i> +54 11-3919-4237 </a>
+         <a href="https://www.altoque.com/sms/personal_claro_movistar_mensajes_gratis.php"> <i class="fas fa-phone"></i> +54 11-4627-9701</a>
+         <a href="https://office.live.com/start/Outlook.aspx?omkt=es-CL"> <i class="fas fa-envelope"></i> facuferrara@hotmail.com </a>
+         <a href="https://www.google.com/maps/place/Mor%C3%B3n,+Provincia+de+Buenos+Aires/@-34.6692053,-58.6517034,13z/data=!3m1!4b1!4m5!3m4!1s0x95bcc76f57e3be01:0xa488fcdcec5b600f!8m2!3d-34.6558611!4d-58.6167212"> <i class="fas fa-map"></i> moron, buenos aires - 1708 </a>
       </div>
 
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-         <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+         <a href="https://www.facebook.com/"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="https://twitter.com/?lang=es"> <i class="fab fa-twitter"></i> twitter </a>
+         <a href="https://www.instagram.com/?hl=es"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="https://ar.linkedin.com/"> <i class="fab fa-linkedin"></i> linkedin </a>
       </div>
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   <div class="credit"> creado por <span>Facundo Ferrara</span> | todos los derechos reservados. </div>
 
 </section>
 

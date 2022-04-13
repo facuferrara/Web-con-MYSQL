@@ -229,7 +229,7 @@
 
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   <div class="credit"> creado por <span>Facundo Ferrara</span> | todos los derechos reservados. </div>
 
 </section>
 
