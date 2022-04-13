@@ -25,10 +25,10 @@
    <a href="home.php" class="logo">travel.</a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
-      <a href="book.php">book</a>
+      <a href="home.php">Inicio</a>
+      <a href="about.php">Nosotros</a>
+      <a href="package.php">Paquete</a>
+      <a href="book.php">Libro</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -45,7 +45,7 @@
 
 <section class="packages">
 
-   <h1 class="heading-title">top destinations</h1>
+   <h1 class="heading-title">top destinos</h1>
 
    <div class="box-container">
 
@@ -183,7 +183,7 @@
 
    </div>
 
-   <div class="load-more"><span class="btn">load more</span></div>
+   <div class="load-more"><span class="btn">Ver mas</span></div>
 
 </section>
 
@@ -195,12 +195,12 @@
 
    <div class="box-container">
 
-      <div class="box">
+   <div class="box">
          <h3>quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> inicio</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> acerca de nosotros</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> paquetes</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> libro</a>
       </div>
 
       <div class="box">
@@ -234,13 +234,6 @@
 </section>
 
 <!-- footer section ends -->
-
-
-
-
-
-
-
 
 
 <!-- swiper js link  -->

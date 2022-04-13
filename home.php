@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>home</title>
+   <title>inicio</title>
    
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -22,7 +22,7 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">Viajar.</a>
 
    <nav class="navbar">
       <a href="home.php">Inicio</a>
@@ -213,10 +213,10 @@
 
    <div class="box">
          <h3>quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> inicio</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> acerca de nosotros</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> paquetes</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> libro</a>
       </div>
 
       <div class="box">

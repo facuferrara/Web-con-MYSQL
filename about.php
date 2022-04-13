@@ -22,13 +22,13 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">Viajar.</a>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
-      <a href="book.php">book</a>
+      <a href="home.php">Inicio</a>
+      <a href="about.php">Nosotros</a>
+      <a href="package.php">Paquete</a>
+      <a href="book.php">Libro</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -50,21 +50,20 @@
    </div>
 
    <div class="content">
-      <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <h3>¿Por Qué Elegirnos?</h3>
+      <p>Brindamos la seguridad de que todo va a salir de acuerdo a lo acordado.</p>
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>
-            <span>top destinations</span>
+            <span>top destinos</span>
          </div>
          <div class="icons">
             <i class="fas fa-hand-holding-usd"></i>
-            <span>affordable price</span>
+            <span>precios</span>
          </div>
          <div class="icons">
             <i class="fas fa-headset"></i>
-            <span>24/7 guide service</span>
+            <span> guia de servicios 24/7 </span>
          </div>
       </div>
    </div>
@@ -77,7 +76,7 @@
 
 <section class="reviews">
 
-   <h1 class="heading-title"> clients reviews </h1>
+   <h1 class="heading-title"> reseñas de clientes </h1>
 
    <div class="swiper reviews-slider">
 
@@ -91,8 +90,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>john deo</h3>
+            <p>Impecable, sin quejas!</p>
+            <h3>Ignacio Rolan</h3>
             <span>traveler</span>
             <img src="images/pic-1.png" alt="">
          </div>
@@ -104,9 +103,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
-            <h3>john deo</h3>
-            <span>traveler</span>
+            <p>Excelente servicio, todo acorde al tiempo y muy conforme.</p>
+            <h3>Mariana Acosta</h3>
+            <span>Viajar</span>
             <img src="images/pic-2.png" alt="">
          </div>
 
@@ -116,9 +115,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
-            <h3>john deo</h3>
-            <span>traveler</span>
+            <p>Muy conforme, aunque hubieron detalles en los viajes.</p>
+            <h3>Ricardo Neo</h3>
+            <span>Viajar</span>
             <img src="images/pic-3.png" alt="">
          </div>
 
@@ -130,20 +129,18 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus recusandae cum quibusdam odio dignissimos nemo?</p>
-            <h3>john deo</h3>
-            <span>traveler</span>
+            <p>Muy satisfecha con todo.</p>
+            <h3>Lola Mancuso</h3>
+            <span>Viajar</span>
             <img src="images/pic-4.png" alt="">
          </div>
 
          <div class="swiper-slide slide">
             <div class="stars">
                <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>john deo</h3>
+            <p>Hubieron varios problemas...</p>
+            <h3>Hugo morales</h3>
             <span>traveler</span>
             <img src="images/pic-5.png" alt="">
          </div>
@@ -155,12 +152,11 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>john deo</h3>
-            <span>traveler</span>
+            <p>Bastante divertido.</p>
+            <h3>Hicki tiki</h3>
+            <span>Viajar</span>
             <img src="images/pic-6.png" alt="">
          </div>
-
       </div>
 
    </div>
@@ -169,48 +165,34 @@
 
 <!-- reviews section ends -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- footer section starts  -->
 
 <section class="footer">
 
    <div class="box-container">
 
-      <div class="box">
+   <div class="box">
          <h3>quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> inicio</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> acerca de nosotros</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> paquetes</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> libro</a>
       </div>
 
       <div class="box">
          <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> consultas</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> sobre nosotros</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> politica y privacidad</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> terminos de uso</a>
       </div>
 
       <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +54 11-3919-4237 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +54 11-4627-9701</a>
+         <a href="#"> <i class="fas fa-envelope"></i> facuferrara@hotmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> moron, buenos aires - 1708 </a>
       </div>
 
       <div class="box">
@@ -228,13 +210,6 @@
 </section>
 
 <!-- footer section ends -->
-
-
-
-
-
-
-
 
 
 <!-- swiper js link  -->
