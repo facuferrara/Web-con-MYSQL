@@ -5,14 +5,8 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title>package</title>
-
-   <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-
-   <!-- font awesome cdn link  -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
-   <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
 
 </head>
@@ -22,13 +16,15 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">Mercosur Educativo.</a>
 
    <nav class="navbar">
       <a href="home.php">Inicio</a>
       <a href="about.php">Nosotros</a>
-      <a href="package.php">Paquete</a>
-      <a href="book.php">Libro</a>
+      <a href="package.php">Organismo</a>
+      <a href="about.php">Contacto</a>
+      <a href="book.php">Sector de ayuda</a>
+
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -38,23 +34,46 @@
 <!-- header section ends -->
 
 <div class="heading" style="background:url(images/header-bg-2.png) no-repeat">
-   <h1>packages</h1>
+   <!-- <h1>Planes de Accion</h1> -->
 </div>
 
 <!-- packages section starts  -->
 
 <section class="packages">
 
-   <h1 class="heading-title">top destinos</h1>
+
+
+   <h1 class="heading-title">Organismo</h1>
 
    <div class="box-container">
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images/Organismos/flor.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Alianza del Pacífico</h3>
+            <p></p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/Organismos/ALADI.png" alt="">
+         </div>
+         <div class="content">
+            <h3>Asociación Latinoamericana de Integración</h3>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+
+      <div class="box">
+         <div class="image">
+            <img src="images/Organismos/CELAC.png" alt="">
+         </div>
+         <div class="content">
+            <h3>Comunidad de Estados Latinoamericanos y Caribeños</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -62,10 +81,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/Organismos/CEPAL.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Comisión Económica para América Latina</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -73,10 +92,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/Organismos/UNICEF.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Fondo de Naciones Unidas para la Infancia</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -84,10 +103,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-4.jpg" alt="">
+            <img src="images/Organismos/IESME.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Instituto de Evaluación y Seguimiento de las Metas Educativas 2021</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -95,10 +114,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-5.jpg" alt="">
+            <img src="images/Organismos/MERCOSUR.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Mercado Común del Sur</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -106,10 +125,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-6.jpg" alt="">
+            <img src="images/Organismos/oea.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Organización de los Estados Americanos</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -117,10 +136,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-7.jpg" alt="">
+            <img src="images/Organismos/OEI.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Organización de Estados Iberoamericanos</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -128,10 +147,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-8.jpg" alt="">
+            <img src="images/Organismos/UNESCO.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -139,10 +158,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-9.jpg" alt="">
+            <img src="images/Organismos/siteal.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Sistema de Información de Tendencias Educativas en América Latina</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
@@ -150,32 +169,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-10.jpg" alt="">
+            <img src="images/Organismos/onu.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-11.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-12.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Unión Europea</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>

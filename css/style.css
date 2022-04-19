@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
 :root{
-   --main-color:#8e44ad;
+   --main-color:#12293e;
    --black:#222;
    --white:#fff;
    --light-black:#777;
@@ -117,7 +117,7 @@ section{
    color:var(--main-color);
 }
 
-#menu-btn{
+#menu-btn{  
    font-size: 2.5rem;
    cursor: pointer;
    color:var(--black);

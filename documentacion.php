@@ -21,9 +21,8 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo"> Mercosur Educativo.</a>
+   <a href="home.php" class="logo">Mercosur Educativo.</a>
 
-   <input class="form-control me-2 p-3 " type="search" placeholder="Buscar" aria-label="search">
    <nav class="navbar">
       <a href="home.php">Inicio</a>
       <a href="about.php">Nosotros</a>
@@ -64,13 +63,13 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide" style="background:url(images/Slayer/da_del_MERCOSUR_2022_web.jpg) no-repeat">
+         <!-- <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
             <div class="content">
-               <span></span>
-               <h3></h3>
+               <span>Explorar, Descubrir, Viajar</span>
+               <h3>Haz que tu recorrido valga la pena</h3>
                <a href="package.php" class="btn">Descubrir más</a>
             </div>
-         </div>
+         </div> -->
          
       </div>
 
@@ -132,15 +131,12 @@
 <section class="home-about">
 
    <div class="image">
-      <img src="images/home-p.jpg" alt="">
+      <img src="images/about-img.jpg" alt="">
    </div>
 
    <div class="content">
-      <h3>Sector Educativo del MERCOSUR</h3>
+      <h3>Sobre Nosotros</h3>
       <p></p>
-      <h2>El Sector Educativo del MERCOSUR es un espacio de coordinación de las políticas educativas que reúne a los países miembros y asociados del MERCOSUR, desde diciembre de 1991, cuando el Consejo del Mercado Común (CMC), a través de la Decisión 07/91, creó la Reunión de Ministros de Educación del MERCOSUR (RME).Con el tiempo, la Reunión de Ministros creó otras instancias para apoyar el Sector. En 2001, a través de la Decisión CMC 15/01, se aprobó la "estructura organizativa del Sector Educativo del MERCOSUR", que crea el Comité de Coordinación Regional, las Comisiones Regionales Coordinadoras de Área (Básica, Tecnológica y Superior) y el Comité Gestor del Sistema de Información y Comunicación. En 2005 se creó el Comité Asesor del Fondo Educativo del MERCOSUR. En 2006, se creó la Red de Agencias Nacionales de Acreditación, y en 2011 se creó la Comisión Regional Coordinadora de Formación Docente. Además de estas, hay otras instancias, temporales y permanentes, que gestionan acciones específicas. A través de la negociación de políticas públicas y la elaboración y ejecución de programas y proyectos conjuntos, el Sector Educativo del MERCOSUR busca la integración y el desarrollo de la educación en toda la región del MERCOSUR y países asociados. 
-      VISIÓN Ser un espacio regional donde se brinda y garantiza una educación con equidad y calidad, caracterizado por el conocimiento recíproco, la interculturalidad, el respeto a la diversidad, la cooperación solidaria, con valores compartidos que contribuyan al mejoramiento y democratización de los sistemas educativos de la región y a generar condiciones favorables para la paz, mediante el desarrollo social, económico y humano sustentable.
-      MISIÓN Conformar un espacio educativo común, a través de la concertación de políticas que articulen la educación con el proceso de integración del MERCOSUR, estimulando la movilidad, el intercambio y la formación de una identidad y ciudadanía regional, con el objeto de lograr una educación de calidad para todos, con atención especial a los sectores más vulnerables en un proceso de desarrollo con justicia social y respeto a la diversidad cultural de los pueblos de la región.</h2>
       <a href="about.php" class="btn">Lee Más</a>
    </div>
 
@@ -152,39 +148,39 @@
 
 <section class="home-packages">
 
-   <h1 class="heading-title">Ultimas Noticias</h1>
+   <h1 class="heading-title">Nuestros Paquetes</h1>
 
    <div class="box-container">
 
       <div class="box">
          <div class="image">
-            <img src="images/Slayer/convocatoria_hackatlon.jpg" alt="">
+            <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Contratación de consultora y/o institución educativa para el diseño, implementación ..</h3>
-            <p>Con motivo del trigésimo aniversario de la creación del MERCOSUR, y en el marco de la implementación del “Proyecto de capacitación en Creatividad..</p>
+            <h3>La realeza</h3>
+            <p></p>
             <a href="book.php" class="btn">Leer mas</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/Slayer/convocatoria_contenidistas.jpg" alt="">
+            <img src="images/img-2.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Convocatoria: Contenidistas para la elaboración de un trayecto formativos</h3>
-            <p>Con motivo de los 30 años de la creación del MERCOSUR, la Comisión de Área de Formación Docente convoca a equipos de contenidistas de Argentina, Brasil, Paraguay y Uruguay..</p>
+            <h3>Lugares pocos vistos</h3>
+            <p></p>
             <a href="book.php" class="btn">Leer mas</a>
          </div>
       </div>
       
       <div class="box">
          <div class="image">
-            <img src="images/Slayer/da_del_MERCOSUR_2022_web.jpg" alt="">
+            <img src="images/img-3.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Día del MERCOSUR 2022: "Artesanía. La cerámica como patrimonio cultural"</h3>
-            <p>En el marco de la conmemoración del Día del MERCOSUR el 26 de marzo de cada año, la Presidencia Pro Tempore del bloque, a cargo de Paraguay en el primer semestre del año 2022..</p>
+            <h3>Mares</h3>
+            <p></p>
             <a href="book.php" class="btn">Leer Mas</a>
          </div>
       </div>
@@ -216,7 +212,7 @@
    <div class="box-container">
 
    <div class="box">
-         <h3>links</h3>
+         <h3>quick links</h3>
          <a href="home.php"> <i class="fas fa-angle-right"></i> inicio</a>
          <a href="about.php"> <i class="fas fa-angle-right"></i> acerca de nosotros</a>
          <a href="package.php"> <i class="fas fa-angle-right"></i> paquetes</a>
@@ -225,11 +221,10 @@
 
       <div class="box">
          <h3>extra links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> mercosur educacion</a>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> plan de acción</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> banco de datos terminologicos</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> repositorio documental</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> proyectos en ejecucion</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> consultas</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> sobre nosotros</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> politica y privacidad</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> terminos de uso</a>
       </div>
 
       <div class="box">

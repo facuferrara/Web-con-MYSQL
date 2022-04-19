@@ -22,13 +22,15 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">Viajar.</a>
+   <a href="home.php" class="logo">Mercosur Educativo.</a>
 
    <nav class="navbar">
       <a href="home.php">Inicio</a>
       <a href="about.php">Nosotros</a>
-      <a href="package.php">Paquete</a>
-      <a href="book.php">Libro</a>
+      <a href="package.php">Organismo</a>
+      <a href="about.php">Contacto</a>
+      <a href="book.php">Sector de ayuda</a>
+
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -38,7 +40,7 @@
 <!-- header section ends -->
 
 <div class="heading" style="background:url(images/header-bg-1.png) no-repeat">
-   <h1>about us</h1>
+   <h1>Contacto</h1>
 </div>
 
 <!-- about section starts  -->
@@ -46,20 +48,27 @@
 <section class="about">
 
    <div class="image">
-      <img src="images/about-img.jpg" alt="">
+      <img src="images/contac.jpg" alt="">
    </div>
 
    <div class="content">
-      <h3>¿Por Qué Elegirnos?</h3>
-      <p>Brindamos la seguridad de que todo va a salir de acuerdo a lo acordado.</p>
+      <h3>Contacto</h3>
+      <p>Ministerios Asociados.</p>
+      <h1>Ministerio de Educación de Argentina Argentina</h1>
+      <br><h1>Ministerio de Educación de Argentina Argentina</h1>
+      <br><h1>Ministério da Educação do Brasil Brasil</h1>
+      <br><h1>Ministerio de Educación de Bolivia Bolivia</h1>
+      <br><h1>Ministerio de Educación de Chile Chile</h1>
+      <br><h1>Ministerio de Educación de Paraguay Paraguay</h1>
+      <br><h1>Ministerio de Educación y Cultura de Uruguay Uruguay</h1>
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>
-            <span>top destinos</span>
+            <span>informate</span>
          </div>
          <div class="icons">
             <i class="fas fa-hand-holding-usd"></i>
-            <span>precios</span>
+            <span>ahorra tiempo</span>
          </div>
          <div class="icons">
             <i class="fas fa-headset"></i>
@@ -76,87 +85,50 @@
 
 <section class="reviews">
 
-   <h1 class="heading-title"> reseñas de clientes </h1>
+   <h1 class="heading-title"> Calendario de Reuniones - Próximos eventos </h1>
 
    <div class="swiper reviews-slider">
 
       <div class="swiper-wrapper">
 
+      <div class="swiper-slide slide">
+            <!-- <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div> -->
+            <h3>26 Abril</h3>
+            <p>Gt Ciudadania Regional</p>
+            <span>Mercosur Educativo.</span>
+            <!-- <img src="images/pic-2.png" alt=""> -->
+         </div>
          <div class="swiper-slide slide">
-            <div class="stars">
+            <!-- <div class="stars">
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
+            </div> -->
+            <h3>25 Abril</h3>
+            <p>Comite Coordinador Regional</p>
+            <span>Mercosur Educativo.</span>
+            <!-- <img src="images/pic-2.png" alt=""> -->
+         </div>
+         <div class="swiper-slide slide">
+            <!-- <div class="stars">
                <i class="fas fa-star"></i>
-            </div>
-            <p>Impecable, sin quejas!</p>
-            <h3>Ignacio Rolan</h3>
-            <span>traveler</span>
-            <img src="images/pic-1.png" alt="">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div> -->
+            <h3>19 Abril</h3>
+            <p>CTR Protocolo - CAET - CAFD</p>
+            <span>Mercosur Educativo.</span>
+            <!-- <img src="images/pic-2.png" alt=""> -->
          </div>
 
-         <div class="swiper-slide slide">
-            <div class="stars">
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-            </div>
-            <p>Excelente servicio, todo acorde al tiempo y muy conforme.</p>
-            <h3>Mariana Acosta</h3>
-            <span>Viajar</span>
-            <img src="images/pic-2.png" alt="">
-         </div>
-
-         <div class="swiper-slide slide">
-            <div class="stars">
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-            </div>
-            <p>Muy conforme, aunque hubieron detalles en los viajes.</p>
-            <h3>Ricardo Neo</h3>
-            <span>Viajar</span>
-            <img src="images/pic-3.png" alt="">
-         </div>
-
-         <div class="swiper-slide slide">
-            <div class="stars">
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-            </div>
-            <p>Muy satisfecha con todo.</p>
-            <h3>Lola Mancuso</h3>
-            <span>Viajar</span>
-            <img src="images/pic-4.png" alt="">
-         </div>
-
-         <div class="swiper-slide slide">
-            <div class="stars">
-               <i class="fas fa-star"></i>
-            </div>
-            <p>Hubieron varios problemas...</p>
-            <h3>Hugo morales</h3>
-            <span>traveler</span>
-            <img src="images/pic-5.png" alt="">
-         </div>
-
-         <div class="swiper-slide slide">
-            <div class="stars">
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-               <i class="fas fa-star"></i>
-            </div>
-            <p>Bastante divertido.</p>
-            <h3>Hicki tiki</h3>
-            <span>Viajar</span>
-            <img src="images/pic-6.png" alt="">
-         </div>
+         
       </div>
 
    </div>

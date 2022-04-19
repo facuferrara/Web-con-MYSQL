@@ -22,13 +22,15 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+   <a href="home.php" class="logo">Mercosur Educativo.</a>
 
    <nav class="navbar">
       <a href="home.php">Inicio</a>
       <a href="about.php">Nosotros</a>
-      <a href="package.php">Paquete</a>
-      <a href="book.php">Libro</a>
+      <a href="package.php">Organismo</a>
+      <a href="about.php">Contacto</a>
+      <a href="book.php">Sector de ayuda</a>
+
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -38,14 +40,14 @@
 <!-- header section ends -->
 
 <div class="heading" style="background:url(images/header-bg-3.png) no-repeat">
-   <h1>book now</h1>
+   <!-- <h1>book now</h1> -->
 </div>
 
 <!-- booking section starts  -->
 
 <section class="booking">
 
-   <h1 class="heading-title">Reserva Tu Viaje!</h1>
+   <h1 class="heading-title">Contactatanos</h1>
 
    <form action="book_form.php" method="post" class="book-form">
 
