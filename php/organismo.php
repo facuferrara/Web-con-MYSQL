@@ -33,9 +33,8 @@
             <img src="../images/Organismos/flor.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Alianza del Pacífico</h3>
-            <p></p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>Alianza del Pacífico</h3><br><br>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 
@@ -44,8 +43,8 @@
             <img src="../images/Organismos/ALADI.png" alt="">
          </div>
          <div class="content">
-            <h3>Asociación Latinoamericana de Integración</h3>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>ALADI</h3><br><br>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 
@@ -54,9 +53,8 @@
             <img src="../images/Organismos/CELAC.png" alt="">
          </div>
          <div class="content">
-            <h3>Comunidad de Estados Latinoamericanos y Caribeños</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>CELAC</h3><br><br>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 
@@ -65,9 +63,8 @@
             <img src="../images/Organismos/CEPAL.png" alt="">
          </div>
          <div class="content">
-            <h3>Comisión Económica para América Latina</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>Comisión Económica para América Latina</h3><br><br>
+            <a href="../sector_ayuda.php" class="btn">informate</a>
          </div>
       </div>
 
@@ -76,9 +73,8 @@
             <img src="../images/Organismos/UNICEF.png" alt="">
          </div>
          <div class="content">
-            <h3>Fondo de Naciones Unidas para la Infancia</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>Fondo de Naciones Unidas para la Infancia</h3><br><br> 
+            <a href="../sector_ayuda.php" class="btn">Informate   </a>
          </div>
       </div>
 
@@ -87,9 +83,8 @@
             <img src="../images/Organismos/IESME.png" alt="">
          </div>
          <div class="content">
-            <h3>Instituto de Evaluación y Seguimiento de las Metas Educativas 2021</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>IESME</h3><BR><BR><BR><BR><BR>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 
@@ -98,9 +93,8 @@
             <img src="../images/Organismos/MERCOSUR.png" alt="">
          </div>
          <div class="content">
-            <h3>Mercado Común del Sur</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>Mercado Común del Sur</h3><BR><BR>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 
@@ -110,8 +104,7 @@
          </div>
          <div class="content">
             <h3>Organización de los Estados Americanos</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 
@@ -121,8 +114,7 @@
          </div>
          <div class="content">
             <h3>Organización de Estados Iberoamericanos</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 
@@ -131,9 +123,8 @@
             <img src="../images/Organismos/UNESCO.png" alt="">
          </div>
          <div class="content">
-            <h3>Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>UNESCO</h3><br><br><br>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 
@@ -142,9 +133,8 @@
             <img src="../images/Organismos/siteal.png" alt="">
          </div>
          <div class="content">
-            <h3>Sistema de Información de Tendencias Educativas en América Latina</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>SITEAL</h3><br><br><br>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 
@@ -153,9 +143,8 @@
             <img src="../images/Organismos/onu.png" alt="">
          </div>
          <div class="content">
-            <h3>Unión Europea</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="../sector_ayuda.php" class="btn">book now</a>
+            <h3>Unión Europea</h3><br><br><br>
+            <a href="../sector_ayuda.php" class="btn">Informate</a>
          </div>
       </div>
 

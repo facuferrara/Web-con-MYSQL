@@ -7,11 +7,45 @@
    <title>inicio</title>
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+   <!-- <link rel="stylesheet" href="./boostrap_css/bootstrap.min.css"> -->
    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
    
-<!--------INICIO HEADER--------------------->
+<!------------INICIO HEADER--------------------->
+<section class="header2">
+
+<form class="d-flex ">
+      <!-- <input class="form-control " type="search" placeholder="Buscar" aria-label="search"> -->
+      <div class="paises">
+        <a href="https://www.mercosur.int/ " target="blank" class="paises rounded mx-auto d-block "><img
+            src="./images/botones_banderas/mercosul.jpg" height="50" ; width="50"></a>
+        <a href="https://www.argentina.gob.ar/educacion" target="blank" class="paises rounded mx-auto d-block"><img
+            src="./images/botones_banderas/argentina.jpg" height="50" ; width="50"></a>
+        <a href="https://www.gov.br/mec/pt-br" target="blank" class="paises rounded mx-auto d-block"><img
+            src="./images/botones_banderas/brasil.jpg" height="50" ; width="50"></a>
+        <a href="https://www.mec.gov.py/cms/" target="blank" class="paises rounded mx-auto d-block"><img
+            src="./images/botones_banderas/paraguai.jpg" height="50" ; width="50"></a>
+        <a href="https://www.gub.uy/ministerio-educacion-cultura/" target="blank" class="paises rounded mx-auto d-block"><img
+            src="./images/botones_banderas/uruguay.jpg" height="50" ; width="50"></a>
+        <a href="http://me.gob.ve/" target="blank" class="paises rounded mx-auto d-block"><img src="./images/botones_banderas/venezuela.jpg"
+            height="50" ; width="50"></a>
+        <a href="https://www.minedu.gob.bo/"target="blank" class="paises rounded mx-auto d-block"><img src="./images/botones_banderas/bolivia.jpg"
+            height="50" ; width="50"></a>
+        <a href="https://www.mineduc.cl/" target="blank" class="paises rounded mx-auto d-block"><img
+            src="./images/botones_banderas/chile.jpg" height="50" ; width="50"></a>
+         <a href=" https://www.mineducacion.gov.co/portal/" target="blank" class="paises rounded mx-auto d-block"><img
+            src="./images/botones_banderas/colombia.jpg" height="50" ; width="50"></a>   
+        <a href="https://educacion.gob.ec/"target="blank"  class="paises rounded mx-auto d-block"><img
+            src="./images/botones_banderas/equador.jpg" height="50" ; width="50"></a>
+        <a href="https://www.gob.pe/minedu"target="blank" class="paises rounded mx-auto d-block"><img src="./images/botones_banderas/peru.jpg"
+            height="50" ; width="50"></a>
+      </div>
+
+      <!-- <button class="btn btn-dark btn-primary-outline-success" type="button">Buscar</button> -->
+    </form>
+
+</section>
 
 <section class="header">
 
@@ -23,7 +57,7 @@
       <a href="./php/nosotros.php">Nosotros</a>
       <a href="./php/organismo.php">Organismo</a>
       <a href="./php/documentacion.php">Documentacion</a>
-      <a href="./php/sector_ayuda.php">Sector de ayuda</a>
+      <a href="./php/sector_ayuda.php">Ayuda</a>
 
    </nav>
 
@@ -44,18 +78,18 @@
          <div class="swiper-slide slide" style="background:url(images/Slayer/convocatoria_contenidistas.jpg) no-repeat">
             <div class="content">
 
-               <input class="form-control " type="search" placeholder="Buscar" aria-label="search">
+               <!-- <input class="form-control " type="search" placeholder="Buscar" aria-label="search"> -->
                <!-- <span>Mercosur</span> -->
                <!-- <h3>PRESIDENCIA PRO TEMPORE PARAGUAY 2022</h3> -->
-               <a href="package.php" class="btn">Descubrir más</a>
+               <a href="./cartas_php/carta1.php" class="btn">Descubrir más</a>
             </div>
-         </div>
+         </div>   
 
          <div class="swiper-slide slide" style="background:url(images/Slayer/convocatoria_hackatlon.jpg) no-repeat">
             <div class="content">
                <!-- <span>explore, discover, travel</span> -->
                <!-- <h3>Descubre los nuevos lugares</h3> -->
-               <a href="package.php" class="btn">Descubrir más</a>
+               <a href="./cartas_php/carta2.php" class="btn">Descubrir más</a>
             </div>
          </div>
 
@@ -63,7 +97,7 @@
             <div class="content">
                <span></span>
                <h3></h3>
-               <a href="package.php" class="btn">Descubrir más</a>
+               <a href="./cartas_php/carta3.php" class="btn">Descubrir más</a>
             </div>
          </div>
          
@@ -87,25 +121,25 @@
    <div class="box-container">
 
       <div class="box">
-         <img src="images/icon-1.png" alt="">
+         <img class="icon" src="images/estudio.png" alt="">
          <!-- <a href="./php/organismo.php">Organismo</a> -->
          <a class="textButona" href="./php/estudiar_paises.php">Estudiar en los paises del mercosur</a>
       </div>
 
       <div class="box">
-         <img src="images/icon-2.png" alt="">
+         <img class="icon" src="images/programas.png" alt="">
          <!-- <h3>Iniciativas Regionales</h3> -->
          <a class="textButona" href="./php/iniciativas.php">Iniciativas regionales</a>
       </div>
 
       <div class="box">
-         <img src="images/icon-3.png" alt="">
+         <img class="icon" src="images/publicaciones.png" alt="">
          <!-- <h3>Biblioteca de Recursos</h3> -->
          <a class="textButona" href="./php/biblioteca.php">Biblioteca de Recursos</a>
       </div>
 
       <div class="box">
-         <img src="images/icon-4.png" alt="">
+         <img class="icon" src="images/estadisticas.png" alt="">
          <!-- <h3>Mercosur Educativo en Cifras</h3> -->
          <a class="textButona" href="./php/me_cifras.php">Mercosur Educativo en Cifras</a>
       </div>
@@ -152,6 +186,7 @@
 
    <h1 class="heading-title">Ultimas Noticias</h1>
 
+   
    <div class="box-container">
 
       <div class="box">
@@ -161,7 +196,7 @@
          <div class="content">
             <h3>Contratación de consultora y/o institución educativa para el diseño, implementación ..</h3>
             <p>Con motivo del trigésimo aniversario de la creación del MERCOSUR, y en el marco de la implementación del “Proyecto de capacitación en Creatividad..</p>
-            <a href="./php/sector_ayuda.php" class="btn">Leer mas</a>
+            <a href="./cartas_php/carta1.php" class="btn">Leer mas</a>
          </div>
       </div>
 
@@ -172,7 +207,7 @@
          <div class="content">
             <h3>Convocatoria: Contenidistas para la elaboración de un trayecto formativos</h3>
             <p>Con motivo de los 30 años de la creación del MERCOSUR, la Comisión de Área de Formación Docente convoca a equipos de contenidistas de Argentina, Brasil, Paraguay y Uruguay..</p>
-            <a href="sector_ayuda.php" class="btn">Leer mas</a>
+            <a href="./cartas_php/carta2.php" class="btn">Leer mas</a>
          </div>
       </div>
       
@@ -183,28 +218,17 @@
          <div class="content">
             <h3>Día del MERCOSUR 2022: "Artesanía. La cerámica como patrimonio cultural"</h3>
             <p>En el marco de la conmemoración del Día del MERCOSUR el 26 de marzo de cada año, la Presidencia Pro Tempore del bloque, a cargo de Paraguay en el primer semestre del año 2022..</p>
-            <a href="./php/sector_ayuda.php" class="btn">Leer Mas</a>
+            <a href="./cartas_php/carta3.php" class="btn">Leer Mas</a>
          </div>
       </div>
    </div>
 
-   <div class="load-more"> <a href="package.php" class="btn">mas informacion</a> </div>
+   <!-- <div class="load-more"> <a href="./cartas_php/mas_info.php" class="btn">mas informacion</a> </div> -->
 
 </section>
 
 <!--FIN SECCION NOTICIAS-->
 
-<!-- Inicio Seccion de servicios -->
-
-<section class="home-offer">
-   <div class="content">
-      <h3>Adquiera nuestros servicios</h3>
-      <p></p>
-      <a href="./php/sector_ayuda.php" class="btn">Contacto</a>
-   </div>
-</section>
-
-<!--Fin Seccion de servicios-->
 
 <!--CALENDARIO-->
 
@@ -271,7 +295,7 @@
          <a href="home.php"> <i class="fas fa-angle-right"></i> inicio</a>
          <a href="./php/nosotros.php"> <i class="fas fa-angle-right"></i> acerca de nosotros</a>
          <a href="./php/organismo.php"> <i class="fas fa-angle-right"></i> organismo</a>
-         <a href="./php/sector_ayuda.php"> <i class="fas fa-angle-right"></i> dudas</a>
+         <a href="./php/sector_ayuda.php"> <i class="fas fa-angle-right"></i> ayuda</a>
       </div>
 
       <div class="box">

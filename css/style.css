@@ -666,8 +666,9 @@ section{
       margin:2rem;
       text-align: center;
    }
-
+   
 }
+
 
 @media (max-width:450px){
 
@@ -680,3 +681,18 @@ section{
    }
 
 }
+
+.paises{
+   flex-wrap: wrap;
+   justify-content: flex-end;
+}
+
+.form-control{
+   width: 50% !important;
+   height: 50% ;
+
+ }
+ .icon{
+    width: 60%;
+    
+ }

@@ -7,12 +7,12 @@
       $email = $_POST['email'];
       $telefono = $_POST['telefono'];
       $direccion = $_POST['direccion'];
-      $num_puerta = $_POST['num_puerta'];
       $localidad = $_POST['localidad'];
+      $num_puerta = $_POST['num_puerta'];
       $dias = $_POST['dias'];
 
       /*insertar datos en tal base de datos*/ 
-      $request = " insert into datos(nombre, email, telefono, direccion, num_puerta, localidad, dias) values('$nombre','$email','$telefono','$direccion','$localidad','$num_puerta','$dias') "; 
+      $request = " insert into datos(nombre, email, telefono, direccion, localidad,num_puerta, dias) values('$nombre','$email','$telefono','$direccion','$localidad','$num_puerta','$dias') "; 
       mysqli_query($connection, $request); 
 
       header('location: sector_ayuda.php'); 

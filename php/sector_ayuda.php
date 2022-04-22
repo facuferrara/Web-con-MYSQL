@@ -26,7 +26,7 @@
 
    <h1 class="heading-title">Contactatanos</h1>
 
-   <form action="sector_ayuda" method="post" class="book-form">
+   <form action="back_sect_ayuda.php" method="post" class="book-form">
 
       <div class="flex">
          <div class="inputBox">
@@ -45,14 +45,17 @@
             <span>direccion :</span>
             <input type="text" placeholder="enter your address" name="direccion">
          </div>
-         <div class="inputBox">
-            <span>localidad :</span>
-            <input type="text" placeholder="place you want to visit" name="localidad">
-         </div>
+
          <div class="inputBox">
             <span>num_puerta :</span>
             <input type="number" placeholder="number of guests" name="num_puerta">
          </div>
+         
+         <div class="inputBox">
+            <span>localidad :</span>
+            <input type="text" placeholder="place you want to visit" name="localidad">
+         </div>
+         
          <div class="inputBox">
             <span>dias:</span>
             <input type="date" name="dias">

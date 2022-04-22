@@ -7,7 +7,7 @@
          <a href="../home.php"> <i class="fas fa-angle-right"></i> inicio</a>
          <a href="../php/nosotros.php"> <i class="fas fa-angle-right"></i> acerca de nosotros</a>
          <a href="../php/organismo.php"> <i class="fas fa-angle-right"></i> organismo</a>
-         <a href="../php/sector_ayuda.php"> <i class="fas fa-angle-right"></i> dudas</a>
+         <a href="../php/sector_ayuda.php"> <i class="fas fa-angle-right"></i> ayuda</a>
       </div>
 
       <div class="box">
