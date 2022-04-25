@@ -52,6 +52,11 @@
    <a href="home.php" class="logo"> Mercosur Educativo.</a>
    <!-- Buscador implementado en header sin boostrap -->
    <!-- <input class="form-control me-2 p-3 " type="search" placeholder="Buscar" aria-label="search"> -->
+   <form action="" method="get">
+      <input type="text" name="busqueda"> <br>
+      <input type="submit" name="enviar" value="buscar">
+
+   </form>
    <nav class="navbar">
       <a href="home.php" >Inicio</a>
       <a href="./php/nosotros.php">Nosotros</a>
