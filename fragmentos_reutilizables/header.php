@@ -10,7 +10,7 @@
       <a href="nosotros.php">Nosotros</a>
       <a href="organismo.php">Organismo</a>
       <a href="documentacion.php">Documentacion</a>
-      <a href="sector_ayuda.php">Sector de ayuda</a>
+      <a href="sector_ayuda.php">Ayuda</a>
 
    </nav>
 
