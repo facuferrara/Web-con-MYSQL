@@ -19,7 +19,8 @@ var swiper = new Swiper(".home-slider", {
    },
 });
 
-var swiper = new Swiper(".reviews-slider", {
+var swiper = new Swiper(".reviews-slider", { 
+   // funcionalidad del slider 
    grabCursor:true,
    loop:true,
    autoHeight:true,
@@ -41,8 +42,9 @@ let loadMoreBtn = document.querySelector('.packages .load-more .btn');
 let currentItem = 3;
 
 loadMoreBtn.onclick = () =>{
-   let boxes = [...document.querySelectorAll('.packages .box-container .box')];
-   for (var i = currentItem; i < currentItem + 3; i++){
+   let boxes = [...document.querySelectorAll('.packages .box-container .box')]; 
+   // querySelectorAll es como getElementByd,  regresa todos los elementos que coincidan con la selección, en forma de arreglo
+    for (var i = currentItem; i < currentItem + 3; i++){
       boxes[i].style.display = 'inline-block';
    };
    currentItem += 3;
