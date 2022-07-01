@@ -38,17 +38,18 @@ var swiper = new Swiper(".reviews-slider", {
    },
 });
 
-let loadMoreBtn = document.querySelector('.packages .load-more .btn');
-let currentItem = 3;
 
-loadMoreBtn.onclick = () =>{
-   let boxes = [...document.querySelectorAll('.packages .box-container .box')]; 
-   // querySelectorAll es como getElementByd,  regresa todos los elementos que coincidan con la selección, en forma de arreglo
-    for (var i = currentItem; i < currentItem + 3; i++){
-      boxes[i].style.display = 'inline-block';
-   };
-   currentItem += 3;
-   if(currentItem >= boxes.length){
-      loadMoreBtn.style.display = 'none';
-   }
-}
+// let loadMoreBtn = document.querySelector('.packages .load-more .btn');
+// let currentItem = 3;
+
+// loadMoreBtn.onclick = () =>{
+//    let boxes = [...document.querySelectorAll('.packages .box-container .box')]; 
+//    // querySelectorAll es como getElementByd,  regresa todos los elementos que coincidan con la selección, en forma de arreglo
+//     for (var i = currentItem; i < currentItem + 3; i++){
+//       boxes[i].style.display = 'inline-block';
+//    };
+//    currentItem += 3;
+//    if(currentItem >= boxes.length){
+//       loadMoreBtn.style.display = 'none';
+//    }
+// }

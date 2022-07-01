@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+.formulario {
+    margin-bottom: 1rem;
+    padding-top: 20px;
+}
+
+.formulariorow {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-bottom: 24px;
+}
+
+.consulta {
+    font-size: 95px;
+
+}
+.botonenviar {
+    /* color: #fff; */
+    /* background-color: #37BBED; */
+    /* [disabled]border-right-color: #007bff; */
+    /* [disabled]border-top-color: #007bff; */
+    margin-top: 41px;
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 41px;
+    font-size: 22px;
+}
+
+.botonenviar::hover {
+    color: #fff;
+    /* [disabled]border-right-color: #0062cc; */
+    /* [disabled]border-bottom-color: #0062cc; */
+    /* [disabled]border-top-color: #0062cc; */
+    border-width: 0px;
+}
+
+.btn-block2 {
+    /* width: 200px; */
+    min-height: 50px;
+    text-align: center;
+    list-style-position: outside;
+    margin-top: 41px;
+    padding-left: 0px;
+    border-width: 0px;
+}
+
+.btn-block2 + .btn-block2 {
+    margin-top: 0rem;
+    border-width: 0px;
+}
+
+input[type="submit"].btn-block2,
+input[type="reset"].btn-block2,
+input[type="button"].btn-block2 {
+    width: 100%;
+    border-width: 0px;
+}
+
+
+.botoncancelar {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    font-size: 22px;
+}
+
+.botoncancelar:hover {
+  color: #fff;
+  background-color: #5a6268;
+  border-color: #545b62;
+}
+
+.botoncancelar:focus, .botoncancelar.focus {
+  box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0.5);
+}
+
+.botoncancelar.disabled, .botoncancelar:disabled {
+  color: #fff;
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+.botoncancelar:not(:disabled):not(.disabled):active, .botoncancelar:not(:disabled):not(.disabled).active,
+.show > .botoncancelar.dropdown-toggle {
+  color: #fff;
+  background-color: #545b62;
+  border-color: #4e555b;
+}
+
+.botoncancelar:not(:disabled):not(.disabled):active:focus, .botoncancelar:not(:disabled):not(.disabled).active:focus,
+.show > .botoncancelar.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0.5);
+}
+
+
